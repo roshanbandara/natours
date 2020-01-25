@@ -197,7 +197,7 @@ section {
   grid-column: full-start / full-end;
   background-image: linear-gradient(to top, rgba(96, 131, 108, 0.7), rgba(56, 142, 60, 0.8)), url(../img/hero.jpg);
   background-size: cover;
-  background-position: bottom;
+  background-position: bottom center;
   background-attachment: fixed;
   /* 
      -webkit-clip-path: polygon(0 0, 100% 0, 100% 80vh, 0 100%);
